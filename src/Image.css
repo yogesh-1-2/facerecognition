@@ -1,0 +1,11 @@
+.form{
+	background-image: linear-gradient(30deg, #ff6666 12%, transparent 12.5%, transparent 87%,#ff6666  87.5%, #ff6666),
+linear-gradient(150deg, #ff6666 12%, transparent 12.5%, transparent 87%, #ff6666 87.5%, #ff6666),
+linear-gradient(30deg, #ff6666 12%, transparent 12.5%, transparent 87%, #ff6666 87.5%, #ff6666),
+linear-gradient(150deg, #ff6666 12%, transparent 12.5%, transparent 87%, #ff6666 87.5%, #ff6666),
+linear-gradient(60deg, #be81f7 25%, transparent 25.5%, transparent 75%, #be81f7 75%, #be81f7),
+linear-gradient(60deg, #be81f7 25%, transparent 25.5%, transparent 75%, #be81f7 75%, #be81f7);
+background-size:80px 140px;
+background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+
+}

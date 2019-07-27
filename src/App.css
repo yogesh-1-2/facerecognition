@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.center{
+  display : flex;
+  justify-content: center;
+}
+.back{
+  background: linear-gradient(to right, rgba(255, 43, 89), rgba(145, 27, 171));
+}
+.particles{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
